@@ -7,6 +7,7 @@ function HeroSection() {
     return (
         <div className="hero-container">
             <video src="/videos/binaryCode.mov" autoPlay loop muted />
+            <img src="/pictures/Me.JPG" style={{height: '20em', width: '20em', marginBottom: '100px', borderRadius: "150px"}} />
             <h1>Natrez's Portfolio</h1>
             <p>Let's Get Coding!!!</p>
             <div className="hero-btns">
