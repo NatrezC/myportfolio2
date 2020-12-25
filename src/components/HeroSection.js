@@ -1,5 +1,7 @@
 import React from 'react'
-import {Button} from './Button'
+import '../App.css'
+import { Button } from './Button'
+import './HeroSection.css'
 
 function HeroSection() {
     return (
@@ -10,6 +12,9 @@ function HeroSection() {
             <div className="hero-btns">
                 <Button className='btns' buttonStyle="btn--outline" buttonSize="btn--large">
                     GET STARTED
+                </Button>
+                <Button className='btns' buttonStyle="btn--primary" buttonSize="btn--large">
+                    Prolly DONT NEED <i className = "far fa-play-circle" />
                 </Button>
             </div>
         </div>
