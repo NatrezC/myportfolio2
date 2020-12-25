@@ -8,7 +8,7 @@
 .home,
 .about,
 .projects,
-.Resume,
+.resume,
 .sign-up {
   display: flex;
   height: 90vh;
