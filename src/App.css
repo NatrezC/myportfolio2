@@ -28,11 +28,13 @@
 }
 
 .projects {
+  /* background-image:url('https://miro.medium.com/max/5000/1*jFyawcsqoYctkTuZg6wQ1A.jpeg');
   background-position: center;
   background-size: fill;
   background-repeat: no-repeat;
   color: #fff;
-  font-size: 100px;
+  font-size: 100px; */
+  color: red;
 }
 
 .sign-up {
